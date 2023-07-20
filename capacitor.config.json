@@ -1,0 +1,6 @@
+{
+  "appId": "com.kipi",
+  "appName": "Kipi",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

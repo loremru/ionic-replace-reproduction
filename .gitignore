@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+dist-ssr
+*.local
+/.vscode/
+.yarn
+.idea
+.env
+/.graphqlconfig
+schema.graphql
+dist
+android/caches
+android/wrapper
+android/app/build.gradle
+android/daemon

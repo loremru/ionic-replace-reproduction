@@ -1,0 +1,7 @@
+{
+  "name": "kipi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
